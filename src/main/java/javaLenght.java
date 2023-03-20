@@ -4,5 +4,6 @@ public class javaLenght {
         System.out.println("The length of the txt string is: " + txt.length());
 
         //the lenght of char
+        // practice char
     }
 }
